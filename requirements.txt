@@ -1,0 +1,6 @@
+google-adk
+google-genai
+arize-phoenix
+openinference-instrumentation-google-genai 
+openinference-instrumentation-google-adk
+python-dotenv
